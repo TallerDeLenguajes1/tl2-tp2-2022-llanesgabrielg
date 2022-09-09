@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PnZllCijs4XVhau+76EpX9wFIVW9m2FZ8/pHqHZROzTnSW3bu/SRTSHqMtFDVJVePere8nKWlCzEmlf6ESL8WA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.llanes\\Desktop\\taller2\\practica\\tp2\\tl2-tp2-2022-llanesgabrielg\\LogTest\\LogTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.llanes\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
